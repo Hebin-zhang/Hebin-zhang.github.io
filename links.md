@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 友情链接
 permalink: /links/
 comments: true
