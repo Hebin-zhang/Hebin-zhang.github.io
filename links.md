@@ -5,7 +5,7 @@ permalink: /links/
 comments: true
 ---
 
-Hebin's Blog[https://hebin-zhang.github.io/]
+[Hebin's Blog](https://hebin-zhang.github.io/)
 
 ---
 
