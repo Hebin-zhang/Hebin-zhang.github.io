@@ -1,18 +1,14 @@
 ---
 layout:     post
 title:      Git操作与GitHub
-subtitle:   基本的Git操作，如何使用Github。
 date:       2021-12-11
-author:     鹤彬
-header-img: img/github.jpg
-catalog: true
-tags:
-
-    - Linux
-    - Git
-    - Github
+author:     hebin
+tags: [Linux, Github]
+comments: true
+toc: true
 ---
-##  Git操作与GitHub
+
+这篇文章大体介绍了在命令行模式下git的常用操作。
 
 ### ssh密钥
 
