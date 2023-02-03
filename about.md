@@ -11,7 +11,7 @@ permalink: /about/
   <img src="https://weather-icon.journeyad.repl.co/@lanzhou?v=1" align="right">
 </p>
 
-# About me
+## About me
 I am studying at Lanzhou University, majoring in bioinformatics.<br>
 Hope our repo interests you.<br>
 Feel free to contact me, 喜んで!<br>
@@ -22,9 +22,10 @@ Feel free to contact me, 喜んで!<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebin-zhang&layout=compact&count_private=true)](https://github.com/Hebin-zhang)
 
-# Blog
+## Blog
 https://hebin-zhang.github.io/
 <br>
-# Contact
+
+## Contact
 <zhanghb2020@lzu.edu.cn>
 <br>
