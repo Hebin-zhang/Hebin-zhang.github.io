@@ -5,14 +5,14 @@
 # Name of your site (displayed in the header)
 name: "Hebin's Blog"
 # Short bio or description (displayed in the header)
-# description: "分享：技术|编程|生活"
+description: "技术|编程|生活"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /img/avatar.jpg
+avatar: /images/avatar.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: /images/favicon.ico
 
@@ -39,7 +39,7 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
+  # zhihu: ning-meng-cheng-31-94
   email: misakaheb@163.com
   facebook:
   flickr:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+# footer-text: Copyright (c) 2019 lemon
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -89,7 +89,7 @@ permalink: /:title/
 paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+# version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
