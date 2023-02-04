@@ -8,7 +8,7 @@ comments: true
 toc: true
 ---
 <div>
-<font color="#FF0000">///长文章预警///</font><br>入门Linux命令行(cli)，基本的概念以及常用操作。
+<font color="#FF0000">///长文章预警///<font><br>入门Linux命令行(cli)，基本的概念以及常用操作。</font>
 </div>
 
 ## 1 Linux简介
