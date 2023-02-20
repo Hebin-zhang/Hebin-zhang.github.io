@@ -23,13 +23,13 @@ toc: true
 
 [https://cran.rstudio.com/](https://cran.rstudio.com/)
 
-​![image](2023-02-18-assets/image-20230220135041-qit04yu.png)​
+​![image](images/2023-02-18-assets/image-20230220135041-qit04yu.png)​
 
-选择对应操作系统适用的版本。​![image](2023-02-18-assets/image-20230220135118-89pxu6g.png)​
+选择对应操作系统适用的版本。​![image](images/2023-02-18-assets/image-20230220135118-89pxu6g.png)​
 
 点击install R for the first time。
 
-​![image](2023-02-18-assets/image-20230220135155-624bise.png)​
+​![image](images/2023-02-18-assets/image-20230220135155-624bise.png)​
 
 下载安装，默认位置就行。
 
@@ -37,7 +37,7 @@ toc: true
 
 [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
-​![image](2023-02-18-assets/image-20230220135311-ts53lzq.png)​
+​![image](images/2023-02-18-assets/image-20230220135311-ts53lzq.png)​
 
 点击下载安装就完事。安装完成后Rstudio会自动检测R。
 
